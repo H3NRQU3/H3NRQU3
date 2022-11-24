@@ -1,0 +1,4 @@
+- 👋 Olá, meu nome é Henrique
+- :+1: Meu email de contato é henrique.chincoviaki@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender programação
+- 🌱 Recentemente aprendi a programar HTML e CSS
